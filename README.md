@@ -1,7 +1,7 @@
 
 # Simple MultiUser dengan Laravel
 
-program ini berisi login untuk 3 role yaitu : 
+program ini berisi login untuk 4 role yaitu : 
 
 - Admin (edit data barang & food)
 - adminfood (edit data food)
